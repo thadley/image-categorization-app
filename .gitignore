@@ -20,4 +20,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-apimarket_config.json
+src/apimarket_config.json
+src/cloudinary_config.json
